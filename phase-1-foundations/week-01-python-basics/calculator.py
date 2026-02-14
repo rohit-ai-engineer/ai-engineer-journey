@@ -12,9 +12,7 @@ multiplication = num1 * num2
 division = num1 / num2
 
 print("--- Results ---")
-print("Addition:      ", addition)
-print("Subtraction:   ", subtraction)
-print("Multiplication:", multiplication)
-print("Division:      ", division)
-
-
+print("Addition:      ", round(addition, 2))
+print("Subtraction:   ", round(subtraction, 2))
+print("Multiplication:", round(multiplication, 2))
+print("Division:      ", round(division, 2))
