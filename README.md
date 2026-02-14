@@ -1,4 +1,4 @@
-# 🤖 AI Engineer Journey — Zero to Hired
+# 🤖 AI Engineer Journey
 
 > Documenting my journey from absolute zero to becoming a professional AI Engineer. Every line of code, every struggle, every breakthrough — in public.
 
