@@ -1,0 +1,1236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schedules>
+<schedule channel="Virgin Media Four" date="2026-03-07">
+<slot announcedTime="07:05:00.000" synopsis="John Torode and Lisa Faulkner invite us into their kitchen for a morning of feel good food. Brimming with recipes, shortcuts, inspiration and tips from top chef John and cook Lisa." isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211901767" transmissionId="297211901766" isPremiere="false" />
+<product productId="758338527" masterProductId="758338527" productCode="133778" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 8" />
+<series seasonNumber="4">
+<title type="EPG Title" value="John &amp; Lisa's Weekend Kitchen S4" />
+</series>
+</product>
+</slot>
+<slot announcedTime="07:55:00.000" synopsis="From Clondalkin to Beijing. Olympic silver medallist Kenny Egan’s journey to the top of the amateur boxing world and his hidden struggles with addiction" isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211897165" transmissionId="297211897164" isPremiere="false" />
+<product productId="1652083527" masterProductId="1652083527" productCode="135978" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Kenneth Egan" />
+</product>
+</slot>
+<slot announcedTime="08:45:00.000" synopsis="Think Tank is the only quiz that gives you the answers - just not all of them are right. " isLive="false" episodeNumber="19" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297208560819" transmissionId="297208560818" isPremiere="false" />
+<product productId="811290527" masterProductId="811290527" productCode="102879" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 19 Alec, Sophie and Tina" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Think Tank " />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:40:00.000" synopsis="Awe-inspiring, ambitious, and with an innovative, interlinked story arc that marks a first in natural history programming, this landmark series, narrated by Stephen Fry." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211899630" transmissionId="297211899629" isPremiere="false" />
+<product productId="79675540527" masterProductId="79675540527" productCode="222547" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 1 Winter" />
+<series seasonNumber="1">
+<title type="EPG Title" value="A Year on Planet Earth" />
+</series>
+</product>
+</slot>
+<slot announcedTime="10:40:00.000" synopsis="Awe-inspiring, ambitious, and with an innovative, interlinked story arc that marks a first in natural history programming, this landmark series, narrated by Stephen Fry." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211899642" transmissionId="297211899641" isPremiere="false" />
+<product productId="79675573527" masterProductId="79675573527" productCode="222548" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="A Year on Planet Earth" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:40:00.000" synopsis="Despite being bedridden, Claude Jeremiah Greengrass is still up to his old tricks.  Unable to leave the hospital himself, the old rogue employs Ken and Alun to collect a package." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297207357365" transmissionId="297207357364" isPremiere="false" />
+<product productId="655975527" masterProductId="655975527" productCode="128193" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 3 Coffin Fit" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Royal S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:45:00.000" synopsis="The Royal has a delicate case on its hands when a new born baby is found abandoned outside the hospital.  The identity of the infant's mother is a total mystery." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297207355117" transmissionId="297207355116" isPremiere="false" />
+<product productId="656008527" masterProductId="656008527" productCode="128194" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 4 Sister of Mercy" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Royal S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:50:00.000" synopsis="The former Republic of Ireland midfielder talks about his life in professional football and his battles with addiction." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209187156" transmissionId="297209187155" isPremiere="false" />
+<product productId="255738672527" masterProductId="255738672527" productCode="239110" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 2 Keith Treacy" />
+<series seasonNumber="2">
+<title type="EPG Title" value="Sport Stories" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:50:00.000" synopsis="An activist, a barrister, a renowned pundit, Joe Brolly opens up in a rare and emotional interview about his life, his trauma, and his football controversies." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217780431" transmissionId="297217780430" isPremiere="false" />
+<product productId="20306269527" masterProductId="20306269527" productCode="212752" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Sport Stories: Joe Brolly" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:50:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211845833" transmissionId="297211845832" isPremiere="false" />
+<product productId="258986610527" masterProductId="258986610527" productCode="239294" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 8" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:50:00.000" synopsis="Paul McGrath played at three major tournaments throughout Ireland’s golden era. He relives a club and international career and his battles on and off the field." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297210965114" transmissionId="297210965113" isPremiere="false" />
+<product productId="2774874527" masterProductId="2774874527" productCode="139030" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="">
+<title type="EPG Title" value="Sport Stories: Paul McGrath" />
+</series>
+</product>
+</slot>
+<slot announcedTime="17:50:00.000" synopsis="After years of hurt and devastation Alan Quinlan finally got his hands on European rugby’s most coveted prize in 2006 and in 2008 were he put in a man of the match performance." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214813824" transmissionId="297214813823" isPremiere="false" />
+<product productId="1529805527" masterProductId="1529805527" productCode="135269" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Alan Quinlan: Red Blooded Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Alan Quinlan: Red Blooded" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:50:00.000" synopsis="Some the most classic and most memorable matches from Europe's premier club competition.&#xA;" isLive="false" episodeNumber="36" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209129729" transmissionId="297209129728" isPremiere="false" />
+<product productId="7305377527" masterProductId="7305377527" productCode="125636" category="Sport - Football" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ronaldo: Juventus v Átletico Madrid 2019" />
+<series seasonNumber="">
+<title type="EPG Title" value="Classic UEFA Champions League" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:20:00.000" synopsis="Some the most classic and most memorable matches from Europe's premier club competition.&#xA;" isLive="false" episodeNumber="37" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209129737" transmissionId="297209129736" isPremiere="false" />
+<product productId="7305407527" masterProductId="7305407527" productCode="125637" category="Sport - Football" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ronaldo: Real Madrid v Juventus 2017" />
+<series seasonNumber="">
+<title type="EPG Title" value="Classic UEFA Champions League" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:55:00.000" synopsis="From monstrous sharks to killer catfish, his investigations are as varied and challenging as ever. Jeremy travels the world to uncover a range of underwater assassins." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211889413" transmissionId="297211889412" isPremiere="false" />
+<product productId="681005527" masterProductId="681005527" productCode="139875" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Epsiode 5" />
+<series seasonNumber="6">
+<title type="EPG Title" value="River Monsters S6" />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Lucy Kennedy tackles a subject close to her heart as she looks at the huge surge in demand for dogs during lockdown and all its consequences.&#xA;&#xA;" isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297210954032" transmissionId="297210954031" isPremiere="false" />
+<product productId="1508991527" masterProductId="1508991527" productCode="135549" category="Entertainment - Factual" isDubbed="true" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Lucy's Puppy Problems " />
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="In its final season, Million Dollar Listing New York returns as the agents hustle through a turbulent market, juggling remote deals, bold ventures, and luxury clients." isLive="false" episodeNumber="14" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205280246" transmissionId="297205280245" isPremiere="false" />
+<product productId="297190783379" masterProductId="297190783379" productCode="240612" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 14 Wined, Dined, Deal?" />
+<series seasonNumber="">
+<title type="EPG Title" value="Million Dollar Listing New York S9" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:55:00.000" synopsis="After a stormy fallout, the women of 90210 try to heal their fractured friendships; with a spiritual guru, raw confrontations, and a few surprises." isLive="false" episodeNumber="16" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205282974" transmissionId="297205282973" isPremiere="false" />
+<product productId="297190777452" masterProductId="297190777452" productCode="240593" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 16 Diamonds in the Rough" />
+<series seasonNumber="13">
+<title type="EPG Title" value="The Real Housewives of Beverly Hills S13" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:55:00.000" synopsis="Set sail aboard the 180-foot yacht &quot;Lady Michelle&quot; for an exciting and shocking season featuring crew conflict, shenanigans, hookups and more." isLive="false" episodeNumber="15" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205285350" transmissionId="297205285349" isPremiere="false" />
+<product productId="297193051509" masterProductId="297193051509" productCode="240754" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 15 Three's a Crowd" />
+<series seasonNumber="">
+<title type="EPG Title" value="Below Deck Mediterranean S6" />
+</series>
+</product>
+</slot>
+<slot announcedTime="24:50:00.000" synopsis="Lisa Vanderpump, the queen of glam and sass reigns over SUR, her sultry Hollywood hotspot and the sexiest place she’s ever owned, perfect for secrets and scandals." isLive="false" episodeNumber="16" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205287277" transmissionId="297205287276" isPremiere="false" />
+<product productId="297193101964" masterProductId="297193101964" productCode="240889" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 16 Reunion Part 1" />
+<series seasonNumber="9">
+<title type="EPG Title" value="Vanderpump Rules S9" />
+</series>
+</product>
+</slot>
+<closedown start="25:40:32.800" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-08">
+<slot announcedTime="06:55:00.000" synopsis="John Torode and Lisa Faulkner invite us into their kitchen for a morning of feel good food. Brimming with recipes, shortcuts, inspiration and tips from top chef John and cook Lisa." isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211901779" transmissionId="297211901778" isPremiere="false" />
+<product productId="758371527" masterProductId="758371527" productCode="133779" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 9" />
+<series seasonNumber="4">
+<title type="EPG Title" value="John &amp; Lisa's Weekend Kitchen S4" />
+</series>
+</product>
+</slot>
+<slot announcedTime="07:40:00.000" synopsis="Growing up in The Troubles in south Armagh, Oisin McConville became a  local legend as he recovered from a missed penalty to score the winning goal in their only All-Ireland win." isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211897177" transmissionId="297211897176" isPremiere="false" />
+<product productId="2772474527" masterProductId="2772474527" productCode="139027" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Oisin McConville" />
+</product>
+</slot>
+<slot announcedTime="08:30:00.000" synopsis="Think Tank is the only quiz that gives you the answers - just not all of them are right. " isLive="false" episodeNumber="20" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297208560831" transmissionId="297208560830" isPremiere="false" />
+<product productId="811323527" masterProductId="811323527" productCode="102880" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 20 Kate, John Paul and Lynne" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Think Tank " />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:25:00.000" synopsis="Awe-inspiring, ambitious, and with an innovative, interlinked story arc that marks a first in natural history programming, this landmark series, narrated by Stephen Fry." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211899654" transmissionId="297211899653" isPremiere="false" />
+<product productId="79675606527" masterProductId="79675606527" productCode="222549" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 3 Summer" />
+<series seasonNumber="1">
+<title type="EPG Title" value="A Year on Planet Earth" />
+</series>
+</product>
+</slot>
+<slot announcedTime="10:30:00.000" synopsis="Awe-inspiring, ambitious, and with an innovative, interlinked story arc that marks a first in natural history programming, this landmark series, narrated by Stephen Fry." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211899666" transmissionId="297211899665" isPremiere="false" />
+<product productId="79675639527" masterProductId="79675639527" productCode="222550" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 4 Autumn" />
+<series seasonNumber="1">
+<title type="EPG Title" value="A Year on Planet Earth" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:30:00.000" synopsis="Dr Ormerod is faced with a battle against time when he is called out to attend an accident at Elsinby train station.  Every minute is vital as the victim is trapped. &#xA;" isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297207357377" transmissionId="297207357376" isPremiere="false" />
+<product productId="656041527" masterProductId="656041527" productCode="128195" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 5 Immediate Care" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Royal S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:35:00.000" synopsis="The Royal is in a dire situation.  The news that the hospital is set to close has devastated Mr Middleditch, and he is unable to bring himself to tell the rest of the staff." isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297207355147" transmissionId="297207355146" isPremiere="false" />
+<product productId="656074527" masterProductId="656074527" productCode="128196" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 6 Kiss and Tell" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Royal S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:40:00.000" synopsis="Alan Quinlan sits down with Joe Molloy to look back at his Ireland career having won 27 caps over a 9 year period. " isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214948561" transmissionId="297214948560" isPremiere="false" />
+<product productId="1529771527" masterProductId="1529771527" productCode="135268" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Alan Quinlan: Red Blooded Episode 1" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Alan Quinlan: Red Blooded" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:40:00.000" synopsis="From blowing kisses to being knocked out cold, Derry legend Joe Brolly journeys through a colourful career in this wildly entertaining chat." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217780754" transmissionId="297217780753" isPremiere="false" />
+<product productId="20306339527" masterProductId="20306339527" productCode="212753" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Sport Stories: Joe Brolly" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:45:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211845845" transmissionId="297211845844" isPremiere="false" />
+<product productId="258986644527" masterProductId="258986644527" productCode="239295" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 9" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:45:00.000" synopsis="From Clondalkin to Beijing. Olympic silver medallist Kenny Egan’s journey to the top of the amateur boxing world and his hidden struggles with addiction" isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297210965126" transmissionId="297210965125" isPremiere="false" />
+<product productId="1652083527" masterProductId="1652083527" productCode="135978" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Kenneth Egan" />
+</product>
+</slot>
+<slot announcedTime="17:45:00.000" synopsis="Some the most classic and most memorable matches from Europe's premier club competition.&#xA;" isLive="false" episodeNumber="39" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209129745" transmissionId="297209129744" isPremiere="false" />
+<product productId="7305467527" masterProductId="7305467527" productCode="125639" category="Sport - Football" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ronaldo: Real Madrid v Átletico Madrid 2017" />
+<series seasonNumber="">
+<title type="EPG Title" value="Classic UEFA Champions League" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:20:00.000" synopsis="Some the most classic and most memorable matches from Europe's premier club competition.&#xA;" isLive="false" episodeNumber="41" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209129753" transmissionId="297209129752" isPremiere="false" />
+<product productId="7305527527" masterProductId="7305527527" productCode="125641" category="Sport - Football" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Messi: Goals" />
+<series seasonNumber="">
+<title type="EPG Title" value="Classic UEFA Champions League" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:55:00.000" synopsis="Episode 1 follows some of European football's top officials as they adapt to the introduction of VAR." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214813857" transmissionId="297214813856" isPremiere="false" />
+<product productId="6798198527" masterProductId="6798198527" productCode="128481" category="Sport - Factual" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="">
+<title type="EPG Title" value="UEFA Man In The Middle" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:55:00.000" synopsis="From monstrous sharks to killer catfish, his investigations are as varied and challenging as ever. Jeremy travels the world to uncover a range of underwater assassins." isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211889425" transmissionId="297211889424" isPremiere="false" />
+<product productId="681037527" masterProductId="681037527" productCode="139876" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Epsiode 6" />
+<series seasonNumber="6">
+<title type="EPG Title" value="River Monsters S6" />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="A tale of state terrorism, environmental passion and international power play, this new film tells the story of the fatal bombing of Greenpeace’s flagship Rainbow Warrior." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214719424" transmissionId="297214719423" isPremiere="false" />
+<product productId="186198291527" masterProductId="186198291527" productCode="232237" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="">
+<title type="EPG Title" value="Murder in The Pacific" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="In its final season, Million Dollar Listing New York returns as the agents hustle through a turbulent market, juggling remote deals, bold ventures, and luxury clients." isLive="false" episodeNumber="15" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205280258" transmissionId="297205280257" isPremiere="false" />
+<product productId="297190783413" masterProductId="297190783413" productCode="240613" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 15 Meltdown in Midtown" />
+<series seasonNumber="">
+<title type="EPG Title" value="Million Dollar Listing New York S9" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:55:00.000" synopsis="After a stormy fallout, the women of 90210 try to heal their fractured friendships; with a spiritual guru, raw confrontations, and a few surprises." isLive="false" episodeNumber="17" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205282986" transmissionId="297205282985" isPremiere="false" />
+<product productId="297190777488" masterProductId="297190777488" productCode="240594" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 17 Soirees and Separations" />
+<series seasonNumber="13">
+<title type="EPG Title" value="The Real Housewives of Beverly Hills S13" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:50:00.000" synopsis="Set sail aboard the 180-foot yacht &quot;Lady Michelle&quot; for an exciting and shocking season featuring crew conflict, shenanigans, hookups and more." isLive="false" episodeNumber="16" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205285362" transmissionId="297205285361" isPremiere="false" />
+<product productId="297193051543" masterProductId="297193051543" productCode="240755" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 16 Sleepless in Croatia" />
+<series seasonNumber="">
+<title type="EPG Title" value="Below Deck Mediterranean S6" />
+</series>
+</product>
+</slot>
+<slot announcedTime="24:45:00.000" synopsis="Lisa Vanderpump, the queen of glam and sass reigns over SUR, her sultry Hollywood hotspot and the sexiest place she’s ever owned, perfect for secrets and scandals." isLive="false" episodeNumber="17" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205287289" transmissionId="297205287288" isPremiere="false" />
+<product productId="297193101999" masterProductId="297193101999" productCode="240890" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="false" isIrishLanguage="false" hasStartOver="false" hasNPVR="false" hasCatchup="false" isL2V="false">
+<title type="EPG Title" value="Ep 17 Reunion Part 2" />
+<series seasonNumber="9">
+<title type="EPG Title" value="Vanderpump Rules S9" />
+</series>
+</product>
+</slot>
+<closedown start="25:37:33.480" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-09">
+<slot announcedTime="07:20:00.000" synopsis="Brian Dowling and his fashion-forward design team are on a mission to prove that you can achieve the home renovation of your dreams without it literally costing the earth. &#xA;" isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209134535" transmissionId="297209134534" isPremiere="false" />
+<product productId="97140032527" masterProductId="97140032527" productCode="225166" category="Entertainment - Factual" isDubbed="true" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 3" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Salvage Squad" />
+</series>
+</product>
+</slot>
+<slot announcedTime="08:10:00.000" synopsis=" Dr Ormerod returns to work after his accident, but when his brusque treatment of a hypochondriac schoolgirl ends in tragedy, it's clear he still needs time to recover. " isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209068396" transmissionId="297209068395" isPremiere="false" />
+<product productId="657916527" masterProductId="657916527" productCode="32286" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 1 Loved and Lost" />
+<series seasonNumber="5">
+<title type="EPG Title" value="The Royal S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:00:00.000" synopsis="Loose Women as they chat about news, issues and life in general." isLive="false" episodeNumber="45" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205216319" transmissionId="297205216318" isPremiere="false" />
+<product productId="297207570004" masterProductId="297207570004" productCode="244835" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 45" />
+<series seasonNumber="30">
+<title type="EPG Title" value="Loose Women" />
+</series>
+</product>
+</slot>
+<slot announcedTime="10:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297216798521" transmissionId="297216798520" isPremiere="false" />
+<product productId="517859527" masterProductId="517859527" productCode="97511" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 1 Charlotte" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297216804804" transmissionId="297216804803" isPremiere="false" />
+<product productId="517922527" masterProductId="517922527" productCode="97512" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 2 Aaron" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:00:00.000" synopsis="Actress, comedienne and writer Helen Lederer throws a dinner party, and Brian McFadden provides four diners with cryptic clues hinting at the identity of their mystery hostess." isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211845080" transmissionId="297211845079" isPremiere="false" />
+<product productId="471119527" masterProductId="471119527" productCode="94618" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 8 Helen Lederer" />
+<series seasonNumber="2">
+<title type="EPG Title" value="Who's Doing The Dishes S2" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:00:00.000" synopsis="Emma Willis &amp; Tom Allen host with eight celebrities, each paired with an accomplished chef who will mentor, teach and take them from passionate amateur to restaurant level chefs." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211857064" transmissionId="297211857063" isPremiere="false" />
+<product productId="297192265769" masterProductId="297192265769" productCode="240645" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="5">
+<title type="EPG Title" value="Cooking With The Stars S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:00:00.000" synopsis="A lively mix of celebrity chat with national and international guests, fabulous food from the country’s top Chefs, expert advice and all the unmissable stories making the headlines" isLive="false" episodeNumber="43" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217397663" transmissionId="297217397662" isPremiere="false" />
+<product productId="297207312951" masterProductId="297207312951" productCode="244267" category="Entertainment - Chat Show" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 43" />
+<series seasonNumber="11">
+<title type="EPG Title" value="The Six O'Clock Show" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:55:00.000" synopsis="Ainsley is joined by celebrity chef and presenter Briony May Williams and Gaz Oakley, cookbook author and YouTube chef." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816234" transmissionId="297214816233" isPremiere="false" />
+<product productId="212611953527" masterProductId="212611953527" productCode="232797" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 3" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Ainsleys’ National Trust Cookoff" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:55:00.000" synopsis="Extreme angler Jeremy Wade goes to extraordinary lengths in his mission to find out whether the piranha of the Amazon basin is truly the river monster of nightmares." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392638" transmissionId="297219392637" isPremiere="false" />
+<product productId="246482566527" masterProductId="246482566527" productCode="235185" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="">
+<title type="EPG Title" value="River Monsters S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="17:00:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816752" transmissionId="297214816751" isPremiere="false" />
+<product productId="2516490527" masterProductId="2516490527" productCode="104747" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 7 2004" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="17:30:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816760" transmissionId="297214816759" isPremiere="false" />
+<product productId="2516520527" masterProductId="2516520527" productCode="104748" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 8 2005" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:00:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392826" transmissionId="297219392825" isPremiere="false" />
+<product productId="258985902527" masterProductId="258985902527" productCode="239287" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:00:00.000" synopsis="Gift wrapped is a fun quiz which sees four couples compete to win their perfect gift list. Each couple builds a unique list by selecting their own personal dream prizes. " isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211858449" transmissionId="297211858448" isPremiere="false" />
+<product productId="869648527" masterProductId="869648527" productCode="102005" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Gift Wrapped" />
+</series>
+</product>
+</slot>
+<slot announcedTime="20:00:00.000" synopsis="The day-to-day activity of the UCD Veterinary Hospital, highlights inlcude efforts to save a greyhound and a tricky procedure for pet pigs. " isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214825051" transmissionId="297214825050" isPremiere="false" />
+<product productId="2164543527" masterProductId="2164543527" productCode="135342" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Animal Emergency " />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214822042" transmissionId="297214822041" isPremiere="false" />
+<product productId="61663445527" masterProductId="61663445527" productCode="219620" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="15">
+<title type="EPG Title" value="The Chase S15" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="On your marks, get set, quiz! Hosted by Roman Kemp and Sarah Greene, and based on the nostalgic horse-racing fairground game, five players battle it out on an iconic racetrack set." isLive="false" episodeNumber="23" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211891107" transmissionId="297211891106" isPremiere="false" />
+<product productId="216907306527" masterProductId="216907306527" productCode="233288" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 23" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Finish Line" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:00:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="249" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013540" transmissionId="297213013539" isPremiere="false" />
+<product productId="227265868527" masterProductId="227265868527" productCode="234284" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 249" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:25:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="250" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013548" transmissionId="297213013547" isPremiere="false" />
+<product productId="227265902527" masterProductId="227265902527" productCode="234285" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 250" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:55:00.000" synopsis="A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more." isLive="false" episodeNumber="45" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211816009" transmissionId="297211816008" isPremiere="false" />
+<product productId="297207556990" masterProductId="297207556990" productCode="244577" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 45" />
+<series seasonNumber="38">
+<title type="EPG Title" value="This Morning" />
+</series>
+</product>
+</slot>
+<closedown start="26:14:26.280" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-10">
+<slot announcedTime="07:20:00.000" synopsis="Brian Dowling and his fashion-forward design team are on a mission to prove that you can achieve the home renovation of your dreams without it literally costing the earth. &#xA;" isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209134547" transmissionId="297209134546" isPremiere="false" />
+<product productId="97140064527" masterProductId="97140064527" productCode="225167" category="Entertainment - Factual" isDubbed="true" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Salvage Squad" />
+</series>
+</product>
+</slot>
+<slot announcedTime="08:10:00.000" synopsis="A new administrator arrives and takes over for Mr. Middleditch; Mr. Rose becomes the centre of attention; and a family makes a discover after a minor accident." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209068408" transmissionId="297209068407" isPremiere="false" />
+<product productId="657969527" masterProductId="657969527" productCode="32287" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 2 Cometh The Hour Cometh The Man" />
+<series seasonNumber="5">
+<title type="EPG Title" value="The Royal S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:00:00.000" synopsis="Davina McCall and Nicky Campbell present the heartwarming series which aims to reunite people desperate to find their long lost relatives after years of separation. " isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205216343" transmissionId="297205216342" isPremiere="false" />
+<product productId="203252588527" masterProductId="203252588527" productCode="232512" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 7" />
+<series seasonNumber="12">
+<title type="EPG Title" value="Long Lost Family UK S12" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:55:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297216804816" transmissionId="297216804815" isPremiere="false" />
+<product productId="517955527" masterProductId="517955527" productCode="97513" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 3 Dominic Hilton" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="10:55:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297216804828" transmissionId="297216804827" isPremiere="false" />
+<product productId="517988527" masterProductId="517988527" productCode="97514" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 4 Danielle Tobin" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:55:00.000" synopsis="The contestants are guaranteed some fine food today as their mystery host is celebrity chef Aldo Zilli. Can he cook up enough cryptic clues to hide his Italian identity?" isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211845092" transmissionId="297211845091" isPremiere="false" />
+<product productId="471152527" masterProductId="471152527" productCode="94619" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 9 Aldo Zilli" />
+<series seasonNumber="2">
+<title type="EPG Title" value="Who's Doing The Dishes S2" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:55:00.000" synopsis="Emma Willis &amp; Tom Allen host with eight celebrities, each paired with an accomplished chef who will mentor, teach and take them from passionate amateur to restaurant level chefs." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211857076" transmissionId="297211857075" isPremiere="false" />
+<product productId="297192265803" masterProductId="297192265803" productCode="240646" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="5">
+<title type="EPG Title" value="Cooking With The Stars S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:00:00.000" synopsis="A lively mix of celebrity chat with national and international guests, fabulous food from the country’s top Chefs, expert advice and all the unmissable stories making the headlines" isLive="false" episodeNumber="44" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217397691" transmissionId="297217397690" isPremiere="false" />
+<product productId="297207312985" masterProductId="297207312985" productCode="244268" category="Entertainment - Chat Show" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 44" />
+<series seasonNumber="11">
+<title type="EPG Title" value="The Six O'Clock Show" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:55:00.000" synopsis="Ainsley is joined by chefs Tristan and Philli in the kitchen garden on the Wimpole Estate in  Cambridgeshire for a friendly cooking contest" isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816246" transmissionId="297214816245" isPremiere="false" />
+<product productId="212611987527" masterProductId="212611987527" productCode="232798" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Ainsleys’ National Trust Cookoff" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:55:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816768" transmissionId="297214816767" isPremiere="false" />
+<product productId="2516550527" masterProductId="2516550527" productCode="104749" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 9 2006" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:25:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="10" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816776" transmissionId="297214816775" isPremiere="false" />
+<product productId="2516580527" masterProductId="2516580527" productCode="104750" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 10 2007" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:55:00.000" synopsis="Extreme angler Jeremy Wade goes on the hunt for killer catfish, as he follows stories of a man swallowed whole by a giant fish and another attacked in a most unnatural fashion. " isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392650" transmissionId="297219392649" isPremiere="false" />
+<product productId="246483090527" masterProductId="246483090527" productCode="235186" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="">
+<title type="EPG Title" value="River Monsters S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:00:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392838" transmissionId="297219392837" isPremiere="false" />
+<product productId="258986406527" masterProductId="258986406527" productCode="239288" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:00:00.000" synopsis="Gift wrapped is a fun quiz which sees four couples compete to win their perfect gift list. Each couple builds a unique list by selecting their own personal dream prizes. " isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211858461" transmissionId="297211858460" isPremiere="false" />
+<product productId="869681527" masterProductId="869681527" productCode="102006" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 6" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Gift Wrapped" />
+</series>
+</product>
+</slot>
+<slot announcedTime="20:00:00.000" synopsis="The day-to-day activity of the UCD Veterinary Hospital as we follow a Labrador puppy undergoing heart surgery and investigating an illness in a Ragdoll cat." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214825063" transmissionId="297214825062" isPremiere="false" />
+<product productId="2164573527" masterProductId="2164573527" productCode="135343" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 3" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Animal Emergency " />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214822054" transmissionId="297214822053" isPremiere="false" />
+<product productId="61663476527" masterProductId="61663476527" productCode="219621" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="15">
+<title type="EPG Title" value="The Chase S15" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="On your marks, get set, quiz! Hosted by Roman Kemp and Sarah Greene, and based on the nostalgic horse-racing fairground game, five players battle it out on an iconic racetrack set." isLive="false" episodeNumber="24" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211891131" transmissionId="297211891130" isPremiere="false" />
+<product productId="216907340527" masterProductId="216907340527" productCode="233289" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 24" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Finish Line" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:00:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="251" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013556" transmissionId="297213013555" isPremiere="false" />
+<product productId="227265936527" masterProductId="227265936527" productCode="234286" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 251" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:25:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="252" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013564" transmissionId="297213013563" isPremiere="false" />
+<product productId="227265970527" masterProductId="227265970527" productCode="234287" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 252" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:55:00.000" synopsis="A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more." isLive="false" episodeNumber="46" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211816021" transmissionId="297211816020" isPremiere="false" />
+<product productId="297207557024" masterProductId="297207557024" productCode="244578" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 46" />
+<series seasonNumber="38">
+<title type="EPG Title" value="This Morning" />
+</series>
+</product>
+</slot>
+<closedown start="26:15:26.360" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-11">
+<slot announcedTime="07:20:00.000" synopsis="Brian Dowling and his fashion-forward design team are on a mission to prove that you can achieve the home renovation of your dreams without it literally costing the earth. &#xA;" isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211913913" transmissionId="297211913912" isPremiere="false" />
+<product productId="97140096527" masterProductId="97140096527" productCode="225168" category="Entertainment - Factual" isDubbed="true" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Salvage Squad" />
+</series>
+</product>
+</slot>
+<slot announcedTime="08:10:00.000" synopsis="A new administrator arrives and takes over for Mr. Middleditch; Mr. Rose becomes the centre of attention; and a family makes a discover after a minor accident." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209068420" transmissionId="297209068419" isPremiere="false" />
+<product productId="658002527" masterProductId="658002527" productCode="32288" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 3 Seeking Refuge" />
+<series seasonNumber="5">
+<title type="EPG Title" value="The Royal S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:00:00.000" synopsis="From Clondalkin to Beijing. Olympic silver medallist Kenny Egan’s journey to the top of the amateur boxing world and his hidden struggles with addiction" isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297215952876" transmissionId="297215952875" isPremiere="false" />
+<product productId="1652083527" masterProductId="1652083527" productCode="135978" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Kenneth Egan" />
+</product>
+</slot>
+<slot announcedTime="10:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819655" transmissionId="297214819654" isPremiere="false" />
+<product productId="518021527" masterProductId="518021527" productCode="97515" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 5 Lily Amelia Harris" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819681" transmissionId="297214819680" isPremiere="false" />
+<product productId="518054527" masterProductId="518054527" productCode="97516" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 6 Jakob Williams" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:00:00.000" synopsis="Boxing promoter Kellie Maloney throws a dinner party for four strangers at her home. Brian McFadden hosts the game show where diners try to guess the identity of a mystery host." isLive="false" episodeNumber="10" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211845104" transmissionId="297211845103" isPremiere="false" />
+<product productId="471185527" masterProductId="471185527" productCode="94620" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 10 Kellie Maloney" />
+<series seasonNumber="2">
+<title type="EPG Title" value="Who's Doing The Dishes S2" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:00:00.000" synopsis="Emma Willis &amp; Tom Allen host with eight celebrities, each paired with an accomplished chef who will mentor, teach and take them from passionate amateur to restaurant level chefs." isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211857088" transmissionId="297211857087" isPremiere="false" />
+<product productId="297192265837" masterProductId="297192265837" productCode="240647" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 6" />
+<series seasonNumber="5">
+<title type="EPG Title" value="Cooking With The Stars S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:00:00.000" synopsis="A lively mix of celebrity chat with national and international guests, fabulous food from the country’s top Chefs, expert advice and all the unmissable stories making the headlines" isLive="false" episodeNumber="45" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217397719" transmissionId="297217397718" isPremiere="false" />
+<product productId="297207313019" masterProductId="297207313019" productCode="244269" category="Entertainment - Chat Show" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 45" />
+<series seasonNumber="11">
+<title type="EPG Title" value="The Six O'Clock Show" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:55:00.000" synopsis="Ainsley is joined by chefs Freddy and Lerato in the kitchen garden of Blicking Hall in Norfolk for a light-hearted cooking contest &#xA;&#xA;" isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816258" transmissionId="297214816257" isPremiere="false" />
+<product productId="212612021527" masterProductId="212612021527" productCode="232799" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Ainsleys’ National Trust Cookoff" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:55:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="11" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816784" transmissionId="297214816783" isPremiere="false" />
+<product productId="2516610527" masterProductId="2516610527" productCode="104751" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 11 2008" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:25:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="12" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816792" transmissionId="297214816791" isPremiere="false" />
+<product productId="2516640527" masterProductId="2516640527" productCode="104752" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 12 2009" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:55:00.000" synopsis="Extreme angler Jeremy Wade heads to Texas on the trail of a river monster said to be as vicious as a shark and as big as an alligator. " isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392662" transmissionId="297219392661" isPremiere="false" />
+<product productId="246483124527" masterProductId="246483124527" productCode="235187" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 3" />
+<series seasonNumber="">
+<title type="EPG Title" value="River Monsters S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:00:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="3" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392860" transmissionId="297219392859" isPremiere="false" />
+<product productId="258986440527" masterProductId="258986440527" productCode="239289" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 3" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:00:00.000" synopsis="Gift wrapped is a fun quiz which sees four couples compete to win their perfect gift list. Each couple builds a unique list by selecting their own personal dream prizes. " isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211858473" transmissionId="297211858472" isPremiere="false" />
+<product productId="869714527" masterProductId="869714527" productCode="102007" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 7" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Gift Wrapped" />
+</series>
+</product>
+</slot>
+<slot announcedTime="20:00:00.000" synopsis="The day-to-day activity of the UCD Veterinary Hospital as a major operation for a Samoyed dog and specialist thyroid treatment for a cat." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214825075" transmissionId="297214825074" isPremiere="false" />
+<product productId="2164603527" masterProductId="2164603527" productCode="135344" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Animal Emergency " />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz." isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214822066" transmissionId="297214822065" isPremiere="false" />
+<product productId="61663507527" masterProductId="61663507527" productCode="219622" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 6" />
+<series seasonNumber="15">
+<title type="EPG Title" value="The Chase S15" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="On your marks, get set, quiz! Hosted by Roman Kemp and Sarah Greene, and based on the nostalgic horse-racing fairground game, five players battle it out on an iconic racetrack set." isLive="false" episodeNumber="25" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211891155" transmissionId="297211891154" isPremiere="false" />
+<product productId="216907374527" masterProductId="216907374527" productCode="233290" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 25" />
+<series seasonNumber="1">
+<title type="EPG Title" value="The Finish Line" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:00:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="253" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013580" transmissionId="297213013579" isPremiere="false" />
+<product productId="227266004527" masterProductId="227266004527" productCode="234288" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 253" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:30:00.000" synopsis="A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more." isLive="false" episodeNumber="47" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211816033" transmissionId="297211816032" isPremiere="false" />
+<product productId="297207557058" masterProductId="297207557058" productCode="244579" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 47" />
+<series seasonNumber="38">
+<title type="EPG Title" value="This Morning" />
+</series>
+</product>
+</slot>
+<closedown start="25:41:45.760" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-12">
+<slot announcedTime="07:20:00.000" synopsis="Comment and analysis on the big stories of the day in Ireland and abroad with a panel of guests covering the key issues." isLive="false" episodeNumber="19" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205218358" transmissionId="297205218357" isPremiere="false" />
+<product productId="297207300782" masterProductId="297207300782" productCode="244142" category="News" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 19" />
+<series seasonNumber="10">
+<title type="EPG Title" value="The Tonight Show S10" />
+</series>
+</product>
+</slot>
+<slot announcedTime="08:10:00.000" synopsis="A new administrator arrives and takes over for Mr. Middleditch; Mr. Rose becomes the centre of attention; and a family makes a discover after a minor accident." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209068432" transmissionId="297209068431" isPremiere="false" />
+<product productId="658035527" masterProductId="658035527" productCode="32289" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 4 Thinking Too Hard" />
+<series seasonNumber="5">
+<title type="EPG Title" value="The Royal S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:00:00.000" synopsis="Growing up in The Troubles in south Armagh, Oisin McConville became a  local legend as he recovered from a missed penalty to score the winning goal in their only All-Ireland win." isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297215953972" transmissionId="297215953971" isPremiere="false" />
+<product productId="2772474527" masterProductId="2772474527" productCode="139027" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Oisin McConville" />
+</product>
+</slot>
+<slot announcedTime="10:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819693" transmissionId="297214819692" isPremiere="false" />
+<product productId="518087527" masterProductId="518087527" productCode="97517" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 7 Ozzie Bee" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819705" transmissionId="297214819704" isPremiere="false" />
+<product productId="518120527" masterProductId="518120527" productCode="97518" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 8 Courtney Paul" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:00:00.000" synopsis="One of Ireland’s greatest ever footballers opens up in a powerful in-depth interview about his life and a career from St. Pat’s to Man United, racism and Jack Charlton.&#xA;&#xA;" isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217780958" transmissionId="297217780957" isPremiere="false" />
+<product productId="2774844527" masterProductId="2774844527" productCode="139029" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="">
+<title type="EPG Title" value="Sport Stories: Paul McGrath" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:00:00.000" synopsis="Hosted by Emma Willis and comedian Tom Allen, we pair eight celebrities with professional chefs who mentor, teach and take them from passionate amateurs to restaurant-level cooks." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214948210" transmissionId="297214948209" isPremiere="false" />
+<product productId="4725440527" masterProductId="4725440527" productCode="137391" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Cooking With The Stars" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:00:00.000" synopsis="A lively mix of celebrity chat with national and international guests, fabulous food from the country’s top Chefs, expert advice and all the unmissable stories making the headlines" isLive="false" episodeNumber="46" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217397747" transmissionId="297217397746" isPremiere="false" />
+<product productId="297207313053" masterProductId="297207313053" productCode="244270" category="Entertainment - Chat Show" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 46" />
+<series seasonNumber="11">
+<title type="EPG Title" value="The Six O'Clock Show" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:55:00.000" synopsis="Ainsley is joined by chefs Daniel Galmiche and Ruby Bhogal in Cambridge for a light-hearted cooking contest in Wimpole Estate’s stunning kitchen garden. " isLive="false" episodeNumber="6" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816270" transmissionId="297214816269" isPremiere="false" />
+<product productId="212612055527" masterProductId="212612055527" productCode="232800" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 6" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Ainsleys’ National Trust Cookoff" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:55:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="13" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816800" transmissionId="297214816799" isPremiere="false" />
+<product productId="2516670527" masterProductId="2516670527" productCode="104753" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 13 2010" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:25:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="14" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816808" transmissionId="297214816807" isPremiere="false" />
+<product productId="2516700527" masterProductId="2516700527" productCode="104754" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 14 2011" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:55:00.000" synopsis="Biologist and extreme angler Jeremy Wade travels to Germany where he meets modern-day victims of a beast that has been on the prowl in these waters for the past 700 years. " isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392674" transmissionId="297219392673" isPremiere="false" />
+<product productId="246483158527" masterProductId="246483158527" productCode="235188" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="">
+<title type="EPG Title" value="River Monsters S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:00:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="4" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392872" transmissionId="297219392871" isPremiere="false" />
+<product productId="258986474527" masterProductId="258986474527" productCode="239290" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 4" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:00:00.000" synopsis="Gift wrapped is a fun quiz which sees four couples compete to win their perfect gift list. Each couple builds a unique list by selecting their own personal dream prizes. " isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211858485" transmissionId="297211858484" isPremiere="false" />
+<product productId="869747527" masterProductId="869747527" productCode="102008" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 8" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Gift Wrapped" />
+</series>
+</product>
+</slot>
+<slot announcedTime="20:00:00.000" synopsis="The day-to-day activity of the UCD Veterinary Hospital shows the treatment of a puppy with a life-threatening condition and providing comfort for an older dog. " isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214825087" transmissionId="297214825086" isPremiere="false" />
+<product productId="2164633527" masterProductId="2164633527" productCode="135345" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Animal Emergency " />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz." isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214822078" transmissionId="297214822077" isPremiere="false" />
+<product productId="61663538527" masterProductId="61663538527" productCode="219623" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 7" />
+<series seasonNumber="15">
+<title type="EPG Title" value="The Chase S15" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="Bradley Walsh hosts a spin-off from The Chase in which contestants take on two, three, four or all five of the quiz's resident experts at once. " isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211891179" transmissionId="297211891178" isPremiere="false" />
+<product productId="997456527" masterProductId="997456527" productCode="124841" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Beat The Chasers S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:00:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="254" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013596" transmissionId="297213013595" isPremiere="false" />
+<product productId="227266038527" masterProductId="227266038527" productCode="234289" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 254" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:30:00.000" synopsis="A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more." isLive="false" episodeNumber="48" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211816045" transmissionId="297211816044" isPremiere="false" />
+<product productId="297207557092" masterProductId="297207557092" productCode="244580" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 48" />
+<series seasonNumber="38">
+<title type="EPG Title" value="This Morning" />
+</series>
+</product>
+</slot>
+<closedown start="25:41:45.360" />
+</schedule>
+<schedule channel="Virgin Media Four" date="2026-03-13">
+<slot announcedTime="07:20:00.000" synopsis="Comment and analysis on the big stories of the day in Ireland and abroad with a panel of guests covering the key issues." isLive="false" episodeNumber="20" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297205218374" transmissionId="297205218373" isPremiere="false" />
+<product productId="297207300817" masterProductId="297207300817" productCode="244143" category="News" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 20" />
+<series seasonNumber="10">
+<title type="EPG Title" value="The Tonight Show S10" />
+</series>
+</product>
+</slot>
+<slot announcedTime="08:10:00.000" synopsis="A new administrator arrives and takes over for Mr. Middleditch; Mr. Rose becomes the centre of attention; and a family makes a discover after a minor accident." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297209068444" transmissionId="297209068443" isPremiere="false" />
+<product productId="658068527" masterProductId="658068527" productCode="32290" category="Entertainment - Drama" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 5 Fever" />
+<series seasonNumber="5">
+<title type="EPG Title" value="The Royal S5" />
+</series>
+</product>
+</slot>
+<slot announcedTime="09:00:00.000" synopsis="One of Leinster's brightest young prospects, Ian McKinley's life was rocked when he lost sight in his eye with a horrific rugby injury." isLive="false" episodeNumber="" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297215953984" transmissionId="297215953983" isPremiere="false" />
+<product productId="20121317527" masterProductId="20121317527" productCode="212747" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Sport Stories: Ian McKinley" />
+</product>
+</slot>
+<slot announcedTime="10:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819717" transmissionId="297214819716" isPremiere="false" />
+<product productId="518153527" masterProductId="518153527" productCode="97519" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 9 Ciara Foster" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="11:00:00.000" synopsis="Three fashionistas compete with each other in a shopping spree to win the ultimate prize of going on a blind date with a fashion savvy singleton." isLive="false" episodeNumber="10" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214819729" transmissionId="297214819728" isPremiere="false" />
+<product productId="518186527" masterProductId="518186527" productCode="97520" category="Entertainment - Series" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 10 Winter Lei Suarez" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Dress To Impress S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="12:00:00.000" synopsis="Paul McGrath played at three major tournaments throughout Ireland’s golden era. He relives a club and international career and his battles on and off the field." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217780990" transmissionId="297217780989" isPremiere="false" />
+<product productId="2774874527" masterProductId="2774874527" productCode="139030" category="Sport - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="">
+<title type="EPG Title" value="Sport Stories: Paul McGrath" />
+</series>
+</product>
+</slot>
+<slot announcedTime="13:00:00.000" synopsis="Hosted by Emma Willis and comedian Tom Allen, we pair eight celebrities with professional chefs who mentor, teach and take them from passionate amateurs to restaurant-level cooks." isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214948452" transmissionId="297214948451" isPremiere="false" />
+<product productId="4725470527" masterProductId="4725470527" productCode="137392" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Cooking With The Stars" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:00:00.000" synopsis="A lively mix of celebrity chat with national and international guests, fabulous food from the country’s top Chefs, expert advice and all the unmissable stories making the headlines" isLive="false" episodeNumber="47" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297217397775" transmissionId="297217397774" isPremiere="false" />
+<product productId="297207313087" masterProductId="297207313087" productCode="244271" category="Entertainment - Chat Show" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 47" />
+<series seasonNumber="11">
+<title type="EPG Title" value="The Six O'Clock Show" />
+</series>
+</product>
+</slot>
+<slot announcedTime="14:55:00.000" synopsis="Ainsley is joined by Yvonne Cobb, deaf celebrity chef and founder of Yumma Food, and Dr Rupy Aujla, GP and creator of The Doctor's Kitchen." isLive="false" episodeNumber="7" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816282" transmissionId="297214816281" isPremiere="false" />
+<product productId="212612089527" masterProductId="212612089527" productCode="232801" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 7" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Ainsleys’ National Trust Cookoff" />
+</series>
+</product>
+</slot>
+<slot announcedTime="15:55:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="15" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816816" transmissionId="297214816815" isPremiere="false" />
+<product productId="2516730527" masterProductId="2516730527" productCode="104755" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 15 2012" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:25:00.000" synopsis="In a series of 20 half hours, we chronicle the news and highlights of the last 20 years in this archive and music-based series. &#xA;" isLive="false" episodeNumber="16" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214816824" transmissionId="297214816823" isPremiere="false" />
+<product productId="2516760527" masterProductId="2516760527" productCode="104756" category="Entertainment - Factual" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="true" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Ep 16 2013" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Don't Look Back in Anger" />
+</series>
+</product>
+</slot>
+<slot announcedTime="16:55:00.000" synopsis="Jeremy Wade goes on a terrifying trip to the Amazon River, which is host to a frightening collection of man-eating monsters. " isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392686" transmissionId="297219392685" isPremiere="false" />
+<product productId="246483192527" masterProductId="246483192527" productCode="235189" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="">
+<title type="EPG Title" value="River Monsters S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="18:00:00.000" synopsis="Sydney Airport is one of the busiest transport hubs in the world. Offering unprecedented access behind the scenes and capturing all the drama as it unfolds." isLive="false" episodeNumber="5" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297219392884" transmissionId="297219392883" isPremiere="false" />
+<product productId="258986508527" masterProductId="258986508527" productCode="239291" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="false" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 5" />
+<series seasonNumber="">
+<title type="EPG Title" value="Inside Sydney Airport" />
+</series>
+</product>
+</slot>
+<slot announcedTime="19:00:00.000" synopsis="Gift wrapped is a fun quiz which sees four couples compete to win their perfect gift list. Each couple builds a unique list by selecting their own personal dream prizes. " isLive="false" episodeNumber="9" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211858497" transmissionId="297211858496" isPremiere="false" />
+<product productId="869780527" masterProductId="869780527" productCode="102009" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 9" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Gift Wrapped" />
+</series>
+</product>
+</slot>
+<slot announcedTime="20:00:00.000" synopsis="Hosted by Emma Willis and comedian Tom Allen, we pair eight celebrities with professional chefs who mentor, teach and take them from passionate amateurs to restaurant-level cooks." isLive="false" episodeNumber="1" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214825099" transmissionId="297214825098" isPremiere="false" />
+<product productId="4725440527" masterProductId="4725440527" productCode="137391" category="Entertainment - Reality" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 1" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Cooking With The Stars" />
+</series>
+</product>
+</slot>
+<slot announcedTime="21:00:00.000" synopsis="Huge global hit game show The Chase is the ultimate heart-racing, high-pressure quiz." isLive="false" episodeNumber="8" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297214822090" transmissionId="297214822089" isPremiere="false" />
+<product productId="61663569527" masterProductId="61663569527" productCode="219624" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 8" />
+<series seasonNumber="15">
+<title type="EPG Title" value="The Chase S15" />
+</series>
+</product>
+</slot>
+<slot announcedTime="22:00:00.000" synopsis="Bradley Walsh hosts a spin-off from The Chase in which contestants take on two, three, four or all five of the quiz's resident experts at once. " isLive="false" episodeNumber="2" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211891203" transmissionId="297211891202" isPremiere="false" />
+<product productId="1000149527" masterProductId="1000149527" productCode="124842" category="Entertainment - Game Shows" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 2" />
+<series seasonNumber="1">
+<title type="EPG Title" value="Beat The Chasers S1" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:00:00.000" synopsis="Presided over by outspoken Judge Judith Sheindlin; with her no-nonsense, decisive approach to justice; she has established herself as a pop-culture icon for generations of viewers." isLive="false" episodeNumber="255" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297213013612" transmissionId="297213013611" isPremiere="false" />
+<product productId="227266072527" masterProductId="227266072527" productCode="234290" category="Entertainment - Reality" isDubbed="false" isDownloadable="false" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="false">
+<title type="EPG Title" value="Episode 255" />
+<series seasonNumber="23">
+<title type="EPG Title" value="Judge Judy S23" />
+</series>
+</product>
+</slot>
+<slot announcedTime="23:30:00.000" synopsis="A mix of celebrity interviews, entertainment news, current affairs discussions, a look at sports competitions, health columns, cooking tips and tricks, and more." isLive="false" episodeNumber="49" isHD="true" hasGeoblocking="true" hasStreaming="true" hasInterDeviceStreaming="true">
+<block blockId="297211816057" transmissionId="297211816056" isPremiere="false" />
+<product productId="297207557126" masterProductId="297207557126" productCode="244581" category="Entertainment" isDubbed="false" isDownloadable="true" isSubtitled="true" isIrishLanguage="false" hasStartOver="true" hasNPVR="true" hasCatchup="true" isL2V="true">
+<title type="EPG Title" value="Episode 49" />
+<series seasonNumber="38">
+<title type="EPG Title" value="This Morning" />
+</series>
+</product>
+</slot>
+<closedown start="25:41:45.920" />
+</schedule>
+</schedules>
