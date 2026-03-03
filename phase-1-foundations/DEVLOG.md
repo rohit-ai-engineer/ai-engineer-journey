@@ -20,35 +20,43 @@ Every Saturday I answer these 5 questions:
 
 ---
 
-### Block 1 — Entry 1 | Week 1 | March 2, 2026
+### Block 1 — Entry 1 | Week 1 | March 2-3, 2026
 
 **Theme:** Python fundamentals — accelerated track  
-**Hours logged:** ~3 hours across 2 days
+**Hours logged:** ~6 hours across 3 days
 
 **What I actually learned:**
 - Variables, print(), input() — the basics
 - Working with the datetime module (strptime, strftime)
 - How to format time strings properly
+- CSV parsing with csv.DictReader
+- **XML parsing with ElementTree** — tags vs attributes, finding elements
 - The importance of actually saving files before running them (lol)
 - f-strings for cleaner output
+- try/except for error handling
+- File paths and working directories in terminal
 
 **The hardest thing this week:**
-> The datetime format string confused me at first. Got an error because I used `%HH:%MM` instead of `%H:%M`. Also kept forgetting to save the file after editing — ran the old version multiple times and was confused why my changes weren't working. Classic beginner mistake but now I always check if the file is saved before running.
+> Understanding XML structure — especially the difference between tags and attributes. At first I thought `announcedTime` was a tag, but it's actually an attribute on the `<slot>` tag. Also caught a bug in the validator where it was checking for date on every slot when date is actually stored once at the `<schedule>` level. Used my domain knowledge from Simply.TV to spot that!
 
 **What I built:**
 - `calculator.py` — basic calculator with 4 operations (addition, subtraction, multiplication, division)
 - `epg_time_calculator.py` — calculates show end time from start time + duration (actually useful for my job!)
+- `metadata_validator.py` — validates CSV metadata, checks for missing fields and invalid values
+- `epg_flexible_validator.py` — **validates real Virgin Media EPG XML feeds** — this is production-level stuff! Checks 137+ programs for missing announcedTime, date, and title
 
 **Moment I'm most proud of:**
-> Seeing the EPG calculator work with real times. It's the first tool I've built that I could legitimately use at Simply.TV. That made it feel *real* — not just a tutorial exercise.
+> Building the XML EPG validator. It works on REAL provider feeds — the exact kind of data I work with at Simply.TV. When it validated all 137 programs successfully, that felt incredible. First time I built something that could legitimately be used in my actual job.
 
 **Honest self-assessment:**
-> Variables: 8/10, print/input: 9/10, datetime: 6/10 (still wrapping my head around the format codes), control flow: not covered yet
+> Variables: 9/10, print/input: 9/10, datetime: 7/10, CSV parsing: 8/10, XML parsing: 6/10 (still learning), error handling: 7/10, control flow (loops/conditions): 8/10
 
 **Plan for next week:**
-- Build the metadata validator (checks CSV records for missing fields)
-- Finish remaining Week 1 projects
-- Start Week 2 if I'm moving fast
+- Start Week 2: OOP (classes, objects, methods)
+- Build the Streaming Catalog Manager using proper OOP
+- Maybe tackle the optional Content Duration Aggregator if time allows
+
+**Week 1 complete? Almost — 4 out of 5 projects done. Moving to Week 2.**
 
 ---
 
