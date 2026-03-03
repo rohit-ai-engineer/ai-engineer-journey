@@ -37,13 +37,13 @@ Every Saturday I answer these 5 questions:
 - File paths and working directories in terminal
 
 **The hardest thing this week:**
-> Understanding XML structure — especially the difference between tags and attributes. At first I thought `announcedTime` was a tag, but it's actually an attribute on the `<slot>` tag. Also caught a bug in the validator where it was checking for date on every slot when date is actually stored once at the `<schedule>` level. Used my domain knowledge from Simply.TV to spot that!
+> Understanding XML structure — especially the difference between tags and attributes. At first I thought `announcedTime` was a tag, but it's actually an attribute on the `<slot>` tag. Also caught a bug in the validator where it was checking for date on every slot when date is actually stored once at the `<schedule>` level. Used my domain knowledge from Nielsen and Simply.TV to spot that!
 
 **What I built:**
 - `calculator.py` — basic calculator with 4 operations (addition, subtraction, multiplication, division)
 - `epg_time_calculator.py` — calculates show end time from start time + duration (actually useful for my job!)
 - `metadata_validator.py` — validates CSV metadata, checks for missing fields and invalid values
-- `epg_flexible_validator.py` — **validates real Virgin Media EPG XML feeds** — this is production-level stuff! Checks 137+ programs for missing announcedTime, date, and title
+- `epg_flexible_validator.py` — **validates real real life EPG XML feeds** — this is production-level stuff! Checks 137+ programs for missing announcedTime, date, and title
 
 **Moment I'm most proud of:**
 > Building the XML EPG validator. It works on REAL provider feeds — the exact kind of data I work with at Simply.TV. When it validated all 137 programs successfully, that felt incredible. First time I built something that could legitimately be used in my actual job.
