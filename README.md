@@ -20,13 +20,14 @@ I'm not a complete beginner — I'm a **data operations leader pivoting into AI 
 
 ## 📍 Current Status
 
-**Phase 1 — Foundations (Accelerated)** `[Week 1 of 6 — IN PROGRESS]`
+**Phase 1 — Foundations (Accelerated)** `[Week 2 of 6 — COMPLETE]`
 ```
-Phase 1: Foundations (6wks)    ████░░░░░░░░░░░░░░░░  Week 1 of 6
+Phase 1: Foundations (6wks)    ████████░░░░░░░░░░░░  Week 2 of 6
 Phase 2: Machine Learning      ░░░░░░░░░░░░░░░░░░░░  Locked
 Phase 3: Deep Learning         ░░░░░░░░░░░░░░░░░░░░  Locked
 Phase 4: LLMs & GenAI          ░░░░░░░░░░░░░░░░░░░░  Locked
 Phase 5: Production & MLOps    ░░░░░░░░░░░░░░░░░░░░  Locked
+
 ```
 
 ---
@@ -47,15 +48,20 @@ Phase 5: Production & MLOps    ░░░░░░░░░░░░░░░░�
 
 ## 📁 Phase 1 Progress
 
-### Week 1: Python Fundamentals ✅ (4/5 projects complete)
+### Week 1: Python Fundamentals ✅ COMPLETE
 - [x] Calculator — basic operations
 - [x] EPG Time Calculator — show start/end time calculation  
 - [x] CSV Metadata Validator — quality checks on streaming data
-- [x] **XML EPG Validator** — validates real provider feeds
-- [ ] Content Duration Aggregator (optional)
+- [x] **XML EPG Validator** — validates real provider feeds (Virgin Media format)
 
-### Weeks 2-6: Coming Soon
-- Week 2: OOP & File I/O
+### Week 2: OOP & File I/O ✅ COMPLETE
+- [x] Content class — represents shows/movies with methods
+- [x] Catalog class — manages collection of content
+- [x] JSON persistence — save/load catalog between sessions
+- [x] Advanced search — filter by genre, duration, year
+- [x] **Statistics dashboard** — movies vs episodes, genre breakdown
+
+### Weeks 3-6: Coming Up
 - Week 3: APIs & Data Pipelines  
 - Week 4: Math for AI
 - Week 5: Statistics & Pandas
@@ -63,14 +69,26 @@ Phase 5: Production & MLOps    ░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🛠️ Projects Built
+## 📁 Phase 1 Progress
 
-| Project | Week | Stack | Status | Description |
-|---------|------|-------|--------|-------------|
-| Calculator | W1 | Python | ✅ Done | Basic arithmetic operations |
-| EPG Time Calculator | W1 | Python, datetime | ✅ Done | Calculate show end times |
-| CSV Metadata Validator | W1 | Python, CSV | ✅ Done | Quality checks on metadata records |
-| XML EPG Validator | W1 | Python, XML | ✅ Done | Validates real Virgin Media EPG feeds |
+### Week 1: Python Fundamentals ✅ COMPLETE
+- [x] Calculator — basic operations
+- [x] EPG Time Calculator — show start/end time calculation  
+- [x] CSV Metadata Validator — quality checks on streaming data
+- [x] **XML EPG Validator** — validates real provider feeds (Virgin Media format)
+
+### Week 2: OOP & File I/O ✅ COMPLETE
+- [x] Content class — represents shows/movies with methods
+- [x] Catalog class — manages collection of content
+- [x] JSON persistence — save/load catalog between sessions
+- [x] Advanced search — filter by genre, duration, year
+- [x] **Statistics dashboard** — movies vs episodes, genre breakdown
+
+### Weeks 3-6: Coming Up
+- Week 3: APIs & Data Pipelines  
+- Week 4: Math for AI
+- Week 5: Statistics & Pandas
+- Week 6: Capstone — Metadata Quality Monitor
 
 ---
 
@@ -80,7 +98,9 @@ Phase 5: Production & MLOps    ░░░░░░░░░░░░░░░░�
 
 **Learnt** Built EPG calculator. Learned datetime, made noob mistakes (forgot to save file!), but tool actually works.
 
-**Latest:** Week 1 almost complete. Built 4 tools including a real EPG validator that handles real life XML feeds. Learned XML parsing, attributes vs tags, and caught a bug in the instructor's code using domain knowledge!
+**Learnt** Week 1 almost complete. Built 4 tools including a real EPG validator that handles real life XML feeds. Learned XML parsing, attributes vs tags, and caught a bug in the instructor's code using domain knowledge!
+
+**Latest** **Latest:** Week 2 complete! Built a streaming catalog manager using OOP. Learned classes, objects, methods, JSON persistence, and wrote my own statistics counting logic. Starting to understand when to use classes vs functions.
 
 ---
 
