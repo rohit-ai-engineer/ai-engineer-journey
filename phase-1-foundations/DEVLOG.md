@@ -60,26 +60,47 @@ Every Saturday I answer these 5 questions:
 
 ---
 
-### Block 1 — Entry 2 | Week 2 | [DATE]
+### Block 1 — Week 2 — Entry 2 | March 3-4, 2026
 
-**Theme:** Logic & control flow  
-**Hours logged:** ___ hours
+**Theme:** OOP, File I/O & Error Handling  
+**Hours logged:** ~5 hours across 2 days
 
 **What I actually learned:**
-- 
-- 
+- Classes vs objects — the blueprint vs the actual thing built from it
+- `__init__` method — the constructor that runs when you create an object
+- `self` — refers to the specific instance (THIS object)
+- Methods — functions that belong to a class
+- When to put code in Content class vs Catalog class (single item vs collection)
+- JSON persistence — saving/loading data so it survives between runs
+- Dictionary counting pattern — checking if key exists, then add 1 or create new
+- `**kwargs` — passing flexible named arguments to functions
+- try/except for handling missing files gracefully
 
-**The hardest thing:**
-> 
+**The hardest thing this week:**
+> Understanding WHERE code should go. I tried to put a counting method in the Content class when it should've been in Catalog. It clicked when I realized: Content = ONE show, Catalog = MANY shows. Also struggled with the genre counting logic at first — had to really think through the if/else pattern for dictionaries. But once I got it, it made total sense.
 
 **What I built:**
-- 
+- `content.py` — Content class with is_movie(), matches_genre(), get_type() methods
+- `catalog.py` — Catalog class that manages a collection of Content objects
+- Features: add, remove, search (with multiple filters), save to JSON, load from JSON, duplicate prevention, statistics dashboard
+- The stats dashboard was mostly me — wrote the movie/episode counting and genre dict logic myself with guidance
 
-**Moment I'm proud of:**
-> 
+**Moment I'm most proud of:**
+> Writing the genre counting logic myself. Even though I referenced the explanation, I understood WHY each line worked. When I saw the output with the genre breakdown, that felt like a real accomplishment. Also realizing I had built something that actually persists data — that's not a toy anymore.
 
-**Next week:**
-- 
+**Honest self-assessment:**
+> OOP concepts: 6/10 (understand basics but still building intuition), loops: 8/10, dictionaries: 7/10, file I/O: 8/10, knowing where code belongs: 5/10 (need more practice)
+
+**Brutal honesty moment:**
+> Realized halfway through that I'm doing OOP without solid fundamentals. It's like learning Formula 1 racing before learning to drive. I can follow along and build things with guidance, but I couldn't write this from scratch yet. Need to go back and drill the basics more.
+
+**Plan for this week:**
+- Do fundamentals practice exercises (loops, dicts, functions — no OOP)
+- Solidify the concepts before Week 3
+- Make sure I can write basic programs WITHOUT looking anything up
+- Then start Week 3: APIs & Data Pipelines
+
+**Week 2 complete? (Y/N):** Y — but with the understanding that I need fundamentals practice before moving forward
 
 ---
 
