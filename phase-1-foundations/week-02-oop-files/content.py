@@ -13,6 +13,7 @@ class Content:
         print(f"Duration: {self.duration} minutes")
         print(f"Released: {self.release_year}")
         print()
+    
     def is_movie(self):
         """Returns True if duration suggests it's a movie (>80 min)"""
         return self.duration > 80
@@ -27,4 +28,3 @@ class Content:
     def matches_genre(self, genre):
         """Check if this content matches a given genre"""
         return self.genre.lower() == genre.lower()
-
