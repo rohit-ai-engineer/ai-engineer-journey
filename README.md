@@ -197,7 +197,7 @@ Phase 5: MLOps + P3            ░░░░░░░░░░░░░░░░�
 
 **Week 2 Reflection:** Built my first OOP system (Catalog Manager). Struggled with understanding where code belongs (Content class vs Catalog class) but got it eventually. Realized I'm doing OOP without solid fundamentals — need more practice with basics.
 
-**Week 1 Reflection:** Started from zero. Built 4 tools including a real EPG validator that handles Virgin Media XML feeds. Learned XML parsing, caught a bug in the instructor's code using my domain knowledge. Feels good to apply my Simply.TV experience.git add README.md
+**Week 1 Reflection:** Started from zero. Built 4 tools including a real EPG validator that handles Virgin Media XML feeds. Learned XML parsing, caught a bug in the instructor's code using my domain knowledge. Feels good to apply my Simply.TV experience.
 
 ---
 
@@ -216,4 +216,4 @@ Phase 5: MLOps + P3            ░░░░░░░░░░░░░░░░�
 
 ---
 
-_Last updated: March 10, 2026_
+_Last updated: March 11, 2026_
