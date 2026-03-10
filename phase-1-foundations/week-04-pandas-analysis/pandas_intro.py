@@ -64,3 +64,15 @@ print("="*50)
 missing_network = df[df['network'].isna()]
 print(f"Found {len(missing_network)} shows with missing network:\n")
 print(missing_network[['show_name', 'network', 'airtime']])
+
+print("\n" + "="*50)
+print("PREVIEW: Grouping & Aggregation")
+print("="*50)
+
+# Group by network and calculate stats
+network_stats = df.groupby('network').agg({
+    'runtime': ['mean', 'min', 'max', 'count']
+})
+
+print("\nNetwork Stats (Top 10 by show count):")
+print(network_stats.sort_values(('runtime', 'count'), ascending=False).head(10))
