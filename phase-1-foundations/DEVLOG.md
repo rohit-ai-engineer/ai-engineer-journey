@@ -155,16 +155,44 @@ Every Saturday I answer these 5 questions:
 
 ---
 
-### Block 2 — Entry 4 | Week 4 | [DATE]
+### Week 4 — Entry 4 | March 13-14, 2026
 
-**Theme:** Object-Oriented Programming  
-**Hours logged:** ___ hours
+**Theme:** Pandas & Data Analysis Mastery  
+**Hours logged:** ~6 hours across 2 days
 
-**The OOP click moment:**
-> [OOP always has a "click moment." Describe when it clicked for you.]
+**What I actually learned:**
+- DataFrames — loading, exploring, filtering at scale
+- Grouping & aggregation (`.groupby().agg()`)
+- Boolean filtering with complex conditions
+- Creating new columns based on conditions
+- Data validation (missing data, suspicious values)
+- File I/O (reading JSON, writing formatted reports)
+- Error handling with try/except
+
+**The hardest thing this week:**
+> Learning to THINK in code logic, not just copy syntax. Exercise 3 was brutal — I struggled to write code independently. But then Exercise 4 happened: I wrote the entire script from scratch based on MY OWN LOGIC. That was the breakthrough.
 
 **What I built:**
-- 
+- Network Analysis Dashboard (groupby/agg mastery)
+- Primetime Analyzer (boolean filtering, new columns)
+- Data Quality Report Tool (automated validation, dual output)
+- Morning Programming Analyzer (self-written from logic!)
+
+**Moment I'm most proud of:**
+> Writing Exercise 4 from scratch. Thought through the logic BEFORE coding, mapped it to patterns, and it worked on first try.
+
+**Honest self-assessment:**
+> DataFrames: 8/10, Groupby/agg: 7/10, Boolean logic: 8/10, Code logic: 6/10, File I/O: 9/10
+
+**Aha moment:**
+> Understanding the difference between `print()` and `return`, and between `print()` and `f.write()`. The `log()` function pattern clicked: same data, three destinations (screen, memory, file).
+
+**Plan for next week:**
+- NumPy fundamentals
+- More practice exercises (5-7) for muscle memory
+- Continue building portfolio depth
+
+**Week 4 complete? (Y/N):** Y — 4 tools built, solid Pandas foundation!
 
 ---
 

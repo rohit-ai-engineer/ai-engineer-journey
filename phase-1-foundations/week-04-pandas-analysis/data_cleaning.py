@@ -63,22 +63,22 @@ provider_b['runtime'] = provider_b['runtime'] + 5  # Simulate conflict - differe
 print("\n--- Provider A Data ---")
 print(provider_a[['show_name', 'runtime', 'source']])
 
-# print("\n--- Provider B Data ---")
-# print(provider_b[['show_name', 'runtime', 'source']])
+print("\n--- Provider B Data ---")
+print(provider_b[['show_name', 'runtime', 'source']])
 
 # Merge them
 merged = pd.concat([provider_a, provider_b], ignore_index=True)
 
-# print("\n--- Merged Data (Both Sources) ---")
-# print(merged[['show_name', 'runtime', 'source']])
+print("\n--- Merged Data (Both Sources) ---")
+print(merged[['show_name', 'runtime', 'source']])
 
-# # Find conflicts (same show, different runtime)
-# print("\n--- Detecting Conflicts ---")
-# conflicts = merged.groupby('show_name')['runtime'].nunique()
-# conflicted_shows = conflicts[conflicts > 1]
+# Find conflicts (same show, different runtime)
+print("\n--- Detecting Conflicts ---")
+conflicts = merged.groupby('show_name')['runtime'].nunique()
+conflicted_shows = conflicts[conflicts > 1]
 
-# print(f"Shows with conflicting runtime data: {len(conflicted_shows)}")
-# print(conflicted_shows)
+print(f"Shows with conflicting runtime data: {len(conflicted_shows)}")
+print(conflicted_shows)
 
 print("\n" + "="*50)
 print("PRACTICE: Conflict Resolution")

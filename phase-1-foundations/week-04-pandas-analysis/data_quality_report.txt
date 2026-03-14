@@ -1,0 +1,67 @@
+=== DATA QUALITY REPORT ===
+
+--- Column Summary ---
+episode_id:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 115
+
+episode_name:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 69
+
+show_name:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 108
+
+network:
+  Total: 115
+  Missing: 6 (5.2%)
+  Unique values: 24
+
+airdate:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 2
+
+airtime:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 31
+
+runtime:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 10
+
+type:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 8
+
+genres:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: N/A (list column)
+
+status:
+  Total: 115
+  Missing: 0 (0.0%)
+  Unique values: 1
+
+shows with runtime < 10 min: 0
+
+shows with runtime > 240 min: 1
+        show_name  runtime network
+18  CBS News 24/7      300    None
+
+Shows with missing network: 6
+                      show_name airtime network
+15          ABC News Live First   09:00    None
+18                CBS News 24/7   10:00    None
+25               NBC News Daily   12:00    None
+34                ABC News Live   13:00    None
+48        ABC News Live Reports   17:00    None
+59  ABC Prime with Linsey Davis   19:00    None
